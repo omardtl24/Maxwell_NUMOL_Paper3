@@ -1,4 +1,3 @@
-raise NotImplementedError()
 
 class Reformulated(Maxwell):
     """ Derived class Reformulated contains methods for

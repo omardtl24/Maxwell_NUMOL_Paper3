@@ -1,4 +1,4 @@
-raise NotImplementedError()
+
 class Maxwell:
     """ The base class for evolution of Maxwell's equations.
     """

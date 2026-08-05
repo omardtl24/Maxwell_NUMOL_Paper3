@@ -1,4 +1,4 @@
-raise NotImplementedError()
+
 
 class Original(Maxwell):
     """ Derived class Original contains methods
