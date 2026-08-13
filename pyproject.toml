@@ -1,5 +1,5 @@
 [project]
-name = "Maxwell-NUMOL-solver"
+name = "MaxwellSolver"
 version = "0.1.0"
 description = ""
 requires-python = ">=3.11"
