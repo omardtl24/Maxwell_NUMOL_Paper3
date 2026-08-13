@@ -1,4 +1,8 @@
 
+from numpy import linspace, zeros, sqrt, exp
+from ..ops import OperatorsOrder2
+import sys
+
 class Maxwell:
     """ The base class for evolution of Maxwell's equations.
     """

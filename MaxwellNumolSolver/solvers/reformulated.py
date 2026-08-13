@@ -1,3 +1,5 @@
+from .maxwell import Maxwell
+from numpy import zeros
 
 class Reformulated(Maxwell):
     """ Derived class Reformulated contains methods for

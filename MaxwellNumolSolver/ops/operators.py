@@ -1,3 +1,6 @@
+from numpy import zeros
+
+
 class OperatorsOrder2:
     """ This class contains all of the derivative operators that we will
     ever need. The operators are implemented to the second order.

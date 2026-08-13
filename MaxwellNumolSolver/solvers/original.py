@@ -1,4 +1,4 @@
-
+from .maxwell import Maxwell
 
 class Original(Maxwell):
     """ Derived class Original contains methods
